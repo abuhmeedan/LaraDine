@@ -26,3 +26,11 @@ php artisan db:seed
 ```
 php artisan serve
 ```
+9.  Run the Queue.
+```
+php artisan queue:work
+```
+10.  Run the tests.
+```
+php artisan test
+```
